@@ -1,4 +1,4 @@
-[![Header](https://github.com/Florentay/florentay/blob/main/assets/header.jpeg)]
+![Header](https://github.com/Florentay/florentay/blob/main/assets/header.jpeg)
 
 ## А я просто тОстер, что тут еще сказать
 
@@ -12,5 +12,5 @@
 
 ### Follow me 
 [![Static Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Florentay)
-[![Static Badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin)](in/olle-gepner-282886292)
+[![Static Badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/olle-gepner-282886292)
 [![Static Badge](https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=Vk)](https://vk.com/hgepner)
