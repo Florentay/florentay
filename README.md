@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Привет, я Оля! 👋</h1>
-    ![Header](https://github.com/Florentay/florentay/blob/main/assets/header2.gif)
+    <img src="/Users/olle/Documents/GitHub/florentay/assets/header2.gif">
 </div>
 
 ## О себе (хто я?)
