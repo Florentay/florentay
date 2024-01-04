@@ -19,11 +19,11 @@
 🐥 Моя цель - стать выдающимся специалистом в области тестирования программного обеспечения и в долгосрочной перспективе стать автоматизатором QA.
 
 ## Чем я занимаюсь в свободное время
-🐍 🎮 📚 В свободное время я изучаю Python, играю на приставке PS5 и увлекаюсь чтением книг по психологии и научной фантастике, а также комиксов (манга/манхва).
+🐍 🎮 📚 В свободное время я изучаю Python (проекты в репозитории [learning_Python](https://github.com/Florentay/learning_Python "https://github.com/Florentay/learning_Python") папка final projects), играю на приставке PS5 и увлекаюсь чтением книг по психологии и научной фантастике, а также комиксов (манга/манхва).
 
 🌟 Буду рада новым знакомствам, совместным проектам и возможностям для обучения. Не стесняйтесь связаться со мной для любых вопросов или идей сотрудничества!
 
-### Languages and Tools
+### Языки и инструменты
 ![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/vsc-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
